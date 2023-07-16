@@ -2,3 +2,4 @@ RESOLUSI 2023
 - Belajar programming
 - Belajar GIT & GITHUB
 - Berkembang menjadi lebih baik
+- Mencoba memulai setup komputer pribadi
